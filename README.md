@@ -1,7 +1,6 @@
 # PHASER-PLATFORM
 A little game made with JavaScript and Phaser
 
-# PHASER-PLATFORM
 
 <img src="./3.png" alt="Logo">
 
